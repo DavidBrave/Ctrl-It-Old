@@ -1,0 +1,9 @@
+Tilesheet Metadata
+
+tile_size		=	16x16 pixels
+tiles_across		=	7 tiles
+main_tiles_down		=	9 tiles
+mid_tiles_down		=	9 tiles
+shadowed_tiles_down	=	3 tiles
+flora_tiles_down	=	5 tiles
+total_tile_down		=	26 tiles
