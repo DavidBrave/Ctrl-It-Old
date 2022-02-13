@@ -1,0 +1,288 @@
+{
+  "version": "0.3.0",
+  "scope": "tree",
+  "id": "1b7fdefe-e51d-4718-86a4-baa915356d85",
+  "title": "My tree",
+  "description": "The root of this tree.  The title of this node sets the title of the tree.  You must have one tree called \"Root\".  You can set tree-wide properties on this node and reference them in other places with the following template syntax: `{{key_name}}`.",
+  "root": "e81b487e-82b5-4d41-919e-d113698b7396",
+  "properties": {},
+  "nodes": {
+    "e81b487e-82b5-4d41-919e-d113698b7396": {
+      "id": "e81b487e-82b5-4d41-919e-d113698b7396",
+      "name": "select",
+      "title": "Select",
+      "description": "Takes multiple children and runs them from top to bottom (or left to right), succeeding when any one succeeds.  Fails if all fail.",
+      "properties": {},
+      "display": {
+        "x": -12,
+        "y": -120
+      },
+      "children": [
+        "170b13f4-fb04-4dc5-805c-fbb6ab63ec7b",
+        "82ec3b84-6856-479c-976d-45a8d9008a9f",
+        "2c6a287c-faf7-4259-8996-74f6b8de4736"
+      ]
+    },
+    "959dec28-fbee-4fb1-901d-06b80e13075b": {
+      "id": "959dec28-fbee-4fb1-901d-06b80e13075b",
+      "name": "runner",
+      "title": "CheckDeath()",
+      "description": "An action that calls the function specified in the title (must be in valid Elixir terms).  The title can contain \"template variables\" (like `{{mod}}.rename({{new_name}}, true)`) which will be replaced with corresponding values looked up on the parent tree.",
+      "properties": {},
+      "display": {
+        "x": -552,
+        "y": 120
+      }
+    },
+    "170b13f4-fb04-4dc5-805c-fbb6ab63ec7b": {
+      "id": "170b13f4-fb04-4dc5-805c-fbb6ab63ec7b",
+      "name": "sequence",
+      "title": "Sequence",
+      "description": "Takes multiple children and runs them from top to bottom (or left to right).  If any fail, this node fails, if all succeed, this node succeeds.",
+      "properties": {},
+      "display": {
+        "x": -384,
+        "y": 0
+      },
+      "children": [
+        "959dec28-fbee-4fb1-901d-06b80e13075b",
+        "2bb9734a-2670-44c3-a72c-bcaec46d7ff1",
+        "fa01360e-cd21-4c27-8a84-b02d08141526"
+      ]
+    },
+    "2bb9734a-2670-44c3-a72c-bcaec46d7ff1": {
+      "id": "2bb9734a-2670-44c3-a72c-bcaec46d7ff1",
+      "name": "runner",
+      "title": "DisposeBody()",
+      "description": "An action that calls the function specified in the title (must be in valid Elixir terms).  The title can contain \"template variables\" (like `{{mod}}.rename({{new_name}}, true)`) which will be replaced with corresponding values looked up on the parent tree.",
+      "properties": {},
+      "display": {
+        "x": -384,
+        "y": 120
+      }
+    },
+    "fa01360e-cd21-4c27-8a84-b02d08141526": {
+      "id": "fa01360e-cd21-4c27-8a84-b02d08141526",
+      "name": "wait",
+      "title": "wait(1000000)",
+      "description": "\"Pauses\" the bot for the specified number of seconds.  You can specify two numbers (like `wait(1,10)`) to wait a random number of seconds between those numbers.",
+      "properties": {},
+      "display": {
+        "x": -216,
+        "y": 120
+      }
+    },
+    "82ec3b84-6856-479c-976d-45a8d9008a9f": {
+      "id": "82ec3b84-6856-479c-976d-45a8d9008a9f",
+      "name": "sequence",
+      "title": "Sequence",
+      "description": "Takes multiple children and runs them from top to bottom (or left to right).  If any fail, this node fails, if all succeed, this node succeeds.",
+      "properties": {},
+      "display": {
+        "x": -12,
+        "y": 120
+      },
+      "children": [
+        "574f1afe-76e1-4c7f-a1b5-b39868d1483d",
+        "d854a248-fe8d-4352-89b6-e22e9c7f001a"
+      ]
+    },
+    "574f1afe-76e1-4c7f-a1b5-b39868d1483d": {
+      "id": "574f1afe-76e1-4c7f-a1b5-b39868d1483d",
+      "name": "sequence",
+      "title": "Sequence",
+      "description": "Takes multiple children and runs them from top to bottom (or left to right).  If any fail, this node fails, if all succeed, this node succeeds.",
+      "properties": {},
+      "display": {
+        "x": -288,
+        "y": 252
+      },
+      "children": [
+        "4066dc48-a3fa-46ef-8d49-4d6c7d33ad2a",
+        "cb30d660-8b46-4fb9-bbdd-f8cfc973932f",
+        "05656c0a-199c-4ef3-9461-933f18670169"
+      ]
+    },
+    "d854a248-fe8d-4352-89b6-e22e9c7f001a": {
+      "id": "d854a248-fe8d-4352-89b6-e22e9c7f001a",
+      "name": "sequence",
+      "title": "Sequence",
+      "description": "Takes multiple children and runs them from top to bottom (or left to right).  If any fail, this node fails, if all succeed, this node succeeds.",
+      "properties": {},
+      "display": {
+        "x": -12,
+        "y": 252
+      },
+      "children": [
+        "ab5a43d1-d4da-4f76-8429-214ff9b1543e",
+        "a7324a9c-5081-48fa-a915-a9c3c66c1394"
+      ]
+    },
+    "4066dc48-a3fa-46ef-8d49-4d6c7d33ad2a": {
+      "id": "4066dc48-a3fa-46ef-8d49-4d6c7d33ad2a",
+      "name": "runner",
+      "title": "PlayerOnSight()",
+      "description": "An action that calls the function specified in the title (must be in valid Elixir terms).  The title can contain \"template variables\" (like `{{mod}}.rename({{new_name}}, true)`) which will be replaced with corresponding values looked up on the parent tree.",
+      "properties": {},
+      "display": {
+        "x": -564,
+        "y": 372
+      }
+    },
+    "ab5a43d1-d4da-4f76-8429-214ff9b1543e": {
+      "id": "ab5a43d1-d4da-4f76-8429-214ff9b1543e",
+      "name": "runner",
+      "title": "PlayerOnAttackRange()",
+      "description": "An action that calls the function specified in the title (must be in valid Elixir terms).  The title can contain \"template variables\" (like `{{mod}}.rename({{new_name}}, true)`) which will be replaced with corresponding values looked up on the parent tree.",
+      "properties": {},
+      "display": {
+        "x": -96,
+        "y": 372
+      }
+    },
+    "a7324a9c-5081-48fa-a915-a9c3c66c1394": {
+      "id": "a7324a9c-5081-48fa-a915-a9c3c66c1394",
+      "name": "runner",
+      "title": "AttackPlayer()",
+      "description": "An action that calls the function specified in the title (must be in valid Elixir terms).  The title can contain \"template variables\" (like `{{mod}}.rename({{new_name}}, true)`) which will be replaced with corresponding values looked up on the parent tree.",
+      "properties": {},
+      "display": {
+        "x": 96,
+        "y": 372
+      }
+    },
+    "cb30d660-8b46-4fb9-bbdd-f8cfc973932f": {
+      "id": "cb30d660-8b46-4fb9-bbdd-f8cfc973932f",
+      "name": "runner",
+      "title": "SeekPlayer()",
+      "description": "An action that calls the function specified in the title (must be in valid Elixir terms).  The title can contain \"template variables\" (like `{{mod}}.rename({{new_name}}, true)`) which will be replaced with corresponding values looked up on the parent tree.",
+      "properties": {},
+      "display": {
+        "x": -372,
+        "y": 372
+      }
+    },
+    "05656c0a-199c-4ef3-9461-933f18670169": {
+      "id": "05656c0a-199c-4ef3-9461-933f18670169",
+      "name": "sequence",
+      "title": "Sequence",
+      "description": "Takes multiple children and runs them from top to bottom (or left to right).  If any fail, this node fails, if all succeed, this node succeeds.",
+      "properties": {},
+      "display": {
+        "x": -252,
+        "y": 372
+      },
+      "children": [
+        "11abbaff-3a44-42c1-a9e9-3951548c0fb8",
+        "e51e1faf-649b-44b8-862d-e5ce54cd2e80"
+      ]
+    },
+    "11abbaff-3a44-42c1-a9e9-3951548c0fb8": {
+      "id": "11abbaff-3a44-42c1-a9e9-3951548c0fb8",
+      "name": "runner",
+      "title": "Arrived()",
+      "description": "An action that calls the function specified in the title (must be in valid Elixir terms).  The title can contain \"template variables\" (like `{{mod}}.rename({{new_name}}, true)`) which will be replaced with corresponding values looked up on the parent tree.",
+      "properties": {},
+      "display": {
+        "x": -336,
+        "y": 492
+      }
+    },
+    "e51e1faf-649b-44b8-862d-e5ce54cd2e80": {
+      "id": "e51e1faf-649b-44b8-862d-e5ce54cd2e80",
+      "name": "runner",
+      "title": "StopSeeking()",
+      "description": "An action that calls the function specified in the title (must be in valid Elixir terms).  The title can contain \"template variables\" (like `{{mod}}.rename({{new_name}}, true)`) which will be replaced with corresponding values looked up on the parent tree.",
+      "properties": {},
+      "display": {
+        "x": -156,
+        "y": 492
+      }
+    },
+    "2c6a287c-faf7-4259-8996-74f6b8de4736": {
+      "id": "2c6a287c-faf7-4259-8996-74f6b8de4736",
+      "name": "random",
+      "title": "Random",
+      "description": "Takes multiple children and runs one of them at random.",
+      "properties": {},
+      "display": {
+        "x": 480,
+        "y": 0
+      },
+      "children": [
+        "0a1db773-2ae8-4dae-9437-d295a413aa5a"
+      ]
+    },
+    "0a1db773-2ae8-4dae-9437-d295a413aa5a": {
+      "id": "0a1db773-2ae8-4dae-9437-d295a413aa5a",
+      "name": "select",
+      "title": "Select",
+      "description": "Takes multiple children and runs them from top to bottom (or left to right), succeeding when any one succeeds.  Fails if all fail.",
+      "properties": {},
+      "display": {
+        "x": 480,
+        "y": 96
+      },
+      "children": [
+        "c1b3082b-9bb5-4cea-8940-7f0af5a30d06",
+        "b1727c67-0890-4363-8bec-a17400063083"
+      ]
+    },
+    "c1b3082b-9bb5-4cea-8940-7f0af5a30d06": {
+      "id": "c1b3082b-9bb5-4cea-8940-7f0af5a30d06",
+      "name": "sequence",
+      "title": "Sequence",
+      "description": "Takes multiple children and runs them from top to bottom (or left to right).  If any fail, this node fails, if all succeed, this node succeeds.",
+      "properties": {},
+      "display": {
+        "x": 396,
+        "y": 240
+      },
+      "children": [
+        "b9081c6b-2943-4d5c-8ac5-9f267bcc0f9b",
+        "f8e4d575-d798-4721-84f0-46369fb304d1"
+      ]
+    },
+    "b9081c6b-2943-4d5c-8ac5-9f267bcc0f9b": {
+      "id": "b9081c6b-2943-4d5c-8ac5-9f267bcc0f9b",
+      "name": "runner",
+      "title": "Idle()",
+      "description": "An action that calls the function specified in the title (must be in valid Elixir terms).  The title can contain \"template variables\" (like `{{mod}}.rename({{new_name}}, true)`) which will be replaced with corresponding values looked up on the parent tree.",
+      "properties": {},
+      "display": {
+        "x": 312,
+        "y": 372
+      }
+    },
+    "f8e4d575-d798-4721-84f0-46369fb304d1": {
+      "id": "f8e4d575-d798-4721-84f0-46369fb304d1",
+      "name": "wait",
+      "title": "Wait(2)",
+      "description": "\"Pauses\" the bot for the specified number of seconds.  You can specify two numbers (like `wait(1,10)`) to wait a random number of seconds between those numbers.",
+      "properties": {},
+      "display": {
+        "x": 480,
+        "y": 372
+      }
+    },
+    "b1727c67-0890-4363-8bec-a17400063083": {
+      "id": "b1727c67-0890-4363-8bec-a17400063083",
+      "name": "runner",
+      "title": "Patrol()",
+      "description": "An action that calls the function specified in the title (must be in valid Elixir terms).  The title can contain \"template variables\" (like `{{mod}}.rename({{new_name}}, true)`) which will be replaced with corresponding values looked up on the parent tree.",
+      "properties": {},
+      "display": {
+        "x": 576,
+        "y": 240
+      }
+    }
+  },
+  "display": {
+    "camera_x": 944,
+    "camera_y": 323.5,
+    "camera_z": 1,
+    "x": -12,
+    "y": -216
+  },
+  "custom_nodes": []
+}
