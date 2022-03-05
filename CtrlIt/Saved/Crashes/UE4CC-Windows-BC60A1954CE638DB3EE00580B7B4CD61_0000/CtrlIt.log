@@ -1,0 +1,1513 @@
+﻿Log file open, 03/05/22 19:04:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CtrlIt
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.196148
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2080 SUPER
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Engine.ini]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Engine.ini]
+[2022.03.05-12.04.38:898][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Engine.ini]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Engine.ini]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.05-12.04.38:898][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Engine.ini]
+[2022.03.05-12.04.38:898][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Engine.ini]
+[2022.03.05-12.04.38:911][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.05-12.04.38:911][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.05-12.04.38:912][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.05-12.04.38:912][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.05-12.04.38:912][  0]LogHAL: Display: Platform has ~ 32 GB [34287620096 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.05-12.04.38:912][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.05-12.04.38:912][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.05-12.04.38:912][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.05-12.04.38:913][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.05-12.04.38:913][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.05-12.04.38:913][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.05-12.04.38:913][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.05-12.04.38:913][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.05-12.04.38:913][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.05-12.04.38:913][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.05-12.04.38:913][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.05-12.04.38:913][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.05-12.04.38:913][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.05-12.04.38:913][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.05-12.04.38:913][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-12.04.38:913][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.05-12.04.38:913][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.05-12.04.38:913][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Scalability.ini]
+[2022.03.05-12.04.38:913][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.05-12.04.38:913][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.05-12.04.38:913][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.05-12.04.38:913][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.05-12.04.38:913][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.05-12.04.38:913][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.05-12.04.38:913][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.05-12.04.38:913][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Engine.ini]
+[2022.03.05-12.04.38:913][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Games/Ctrl+It/CtrlIt/Saved/Config/Windows/Editor.ini]
+[2022.03.05-12.04.38:913][  0]LogInit: Computer: DESKTOP-LGQ5TKE
+[2022.03.05-12.04.38:913][  0]LogInit: User: Brave
+[2022.03.05-12.04.38:913][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.03.05-12.04.38:913][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.05-12.04.38:913][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.03.05-12.04.38:913][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.05-12.04.38:913][  0]LogMemory: Process Physical Memory: 147.52 MB used, 147.52 MB peak
+[2022.03.05-12.04.38:913][  0]LogMemory: Process Virtual Memory: 131.18 MB used, 131.18 MB peak
+[2022.03.05-12.04.38:913][  0]LogMemory: Physical Memory: 10520.34 MB used,  22178.88 MB free, 32699.22 MB total
+[2022.03.05-12.04.38:913][  0]LogMemory: Virtual Memory: 134194096.00 MB used,  23630.67 MB free, 134217728.00 MB total
+[2022.03.05-12.04.38:917][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.05-12.04.38:951][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.05-12.04.38:951][  0]LogInit: Using OS detected language (en-US).
+[2022.03.05-12.04.38:951][  0]LogInit: Using OS detected locale (en-ID).
+[2022.03.05-12.04.38:954][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.03.05-12.04.39:106][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.05-12.04.39:117][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.05-12.04.39:126][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.05-12.04.39:126][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.05-12.04.39:231][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.03.05-12.04.39:234][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.05-12.04.39:234][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.05-12.04.39:234][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.05-12.04.39:234][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.05-12.04.39:319][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080 SUPER' (Feature Level 11_0)
+[2022.03.05-12.04.39:319][  0]LogD3D11RHI:       8010/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.03.05-12.04.39:322][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.05-12.04.39:322][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.05-12.04.39:322][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.03.05-12.04.39:322][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2080 SUPER
+[2022.03.05-12.04.39:322][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.05-12.04.39:322][  0]LogD3D11RHI:     DeviceId    : 1e81
+[2022.03.05-12.04.39:322][  0]LogD3D11RHI:     SubSysId    : 3fe91458
+[2022.03.05-12.04.39:322][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.05-12.04.39:322][  0]LogD3D11RHI:     DedicatedVideoMemory : 8399093760 bytes
+[2022.03.05-12.04.39:322][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.05-12.04.39:322][  0]LogD3D11RHI:     SharedSystemMemory : 17143810048 bytes
+[2022.03.05-12.04.39:322][  0]LogD3D11RHI:     AdapterLuid : 0 48072
+[2022.03.05-12.04.39:330][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.05-12.04.39:330][  0]LogD3D11RHI:     GPU DeviceId: 0x1e81 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.05-12.04.39:330][  0]LogWindows: EnumDisplayDevices:
+[2022.03.05-12.04.39:330][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080 SUPER' (P:1 D:1)
+[2022.03.05-12.04.39:331][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2022.03.05-12.04.39:331][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2022.03.05-12.04.39:331][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080 SUPER' (P:0 D:0)
+[2022.03.05-12.04.39:332][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.03.05-12.04.39:332][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080 SUPER
+[2022.03.05-12.04.39:332][  0]LogD3D11RHI:   Driver Version: 511.23 (internal:30.0.15.1123, unified:511.23)
+[2022.03.05-12.04.39:332][  0]LogD3D11RHI:      Driver Date: 1-10-2022
+[2022.03.05-12.04.39:332][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2022.03.05-12.04.39:332][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.03.05-12.04.39:332][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2080 SUPER
+[2022.03.05-12.04.39:332][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.03.05-12.04.39:332][  0]LogD3D11RHI:     DeviceId    : 1e81
+[2022.03.05-12.04.39:332][  0]LogD3D11RHI:     SubSysId    : 3fe91458
+[2022.03.05-12.04.39:332][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.03.05-12.04.39:332][  0]LogD3D11RHI:     DedicatedVideoMemory : 8399093760 bytes
+[2022.03.05-12.04.39:332][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.05-12.04.39:332][  0]LogD3D11RHI:     SharedSystemMemory : 17143810048 bytes
+[2022.03.05-12.04.39:332][  0]LogD3D11RHI:     AdapterLuid : 0 48072
+[2022.03.05-12.04.39:385][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.05-12.04.39:385][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.05-12.04.39:385][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.05-12.04.39:399][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.03.05-12.04.39:433][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.05-12.04.39:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.05-12.04.39:702][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.05-12.04.39:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.05-12.04.39:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.05-12.04.39:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.05-12.04.39:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.05-12.04.39:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.05-12.04.39:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.05-12.04.39:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.05-12.04.39:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.05-12.04.39:703][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.05-12.04.39:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.05-12.04.39:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.05-12.04.39:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.05-12.04.39:727][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.05-12.04.39:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.05-12.04.39:733][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.05-12.04.39:740][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.05-12.04.39:743][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.05-12.04.39:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.05-12.04.39:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.05-12.04.39:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.05-12.04.39:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.05-12.04.39:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.05-12.04.39:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.05-12.04.39:781][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.05-12.04.39:789][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.05-12.04.39:789][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.05-12.04.39:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.05-12.04.39:799][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.05-12.04.39:802][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.05-12.04.39:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.05-12.04.39:806][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.05-12.04.39:811][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.05-12.04.39:834][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.03.05-12.04.39:857][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.05-12.04.39:857][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (../../../../../../Games/Ctrl+It/CtrlIt/Intermediate/Shaders/WorkingDirectory/11020/).
+[2022.03.05-12.04.39:857][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Brave/AppData/Local/Temp/UnrealShaderWorkingDir/F9A9E9AC491434E7F0E5C39BE0C5495D/'.
+[2022.03.05-12.04.39:857][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.03.05-12.04.39:857][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.05-12.04.39:857][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.05-12.04.40:463][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.05-12.04.40:516][  0]LogDerivedDataCache: Loaded boot cache 0.05s 94MB C:/Users/Brave/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.05-12.04.40:516][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Brave/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.03.05-12.04.40:516][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Games/Ctrl+It/CtrlIt/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.05-12.04.40:516][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.05-12.04.40:516][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Games/Ctrl+It/CtrlIt/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.05-12.04.40:516][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.05-12.04.40:529][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.05-12.04.40:529][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.05-12.04.40:529][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.05-12.04.40:534][  0]LogDerivedDataCache: Speed tests for C:/Users/Brave/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.00 seconds
+[2022.03.05-12.04.40:534][  0]LogDerivedDataCache: Display: Performance to C:/Users/Brave/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1398.24MBs, RandomWriteSpeed=232.92MBs. Assigned SpeedClass 'Local'
+[2022.03.05-12.04.40:535][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Brave/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.05-12.04.40:535][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.05-12.04.40:535][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.05-12.04.40:573][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.05-12.04.40:573][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.05-12.04.40:593][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2022.03.05-12.04.40:771][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.05-12.04.40:771][  0]LogInit: Active device profile: [00000237B1991400][00000237B1390FC0 49] Windows
+[2022.03.05-12.04.40:771][  0]LogInit: Profiles: [00000237B1991400][00000237B1390FC0 49] Windows, [00000237B192A400][00000237B1399140 49] WindowsNoEditor, [00000237B1991300][00000237B139D2C0 49] WindowsServer, [00000237B190FF00][00000237B13A1440 49] WindowsClient, [00000237B192B600][00000237B13A55C0 49] IOS, [00000237B190F000][00000237B13A9740 49] iPadAir, [00000237B192A800][00000237B13AD8C0 49] iPadAir2, [00000237B18E0700][00000237A82D7B80 49] IPadPro, [00000237B18E0800][00000237A82D3BC0 49] iPadAir3, [00000237B190DF00][00000237A82DA1C0 49] iPadAir4, [00000237B18E1700][00000237A82E2340 49] iPadMini2, [00000237B190CC00][00000237A82EA4C0 49] iPadMini3, [00000237B18E2400][00000237B1394600 49] iPadMini4, [00000237B190EA00][00000237A82F2740 49] iPadMini5, [00000237B1991200][00000237A530C980 49] iPhone6, [00000237B1991100][00000237A52D49C0 49] iPodTouch6, [00000237B1929800][00000237A5330C80 49] iPhone7, [00000237B192BF00][00000237A532CCC0 49] iPodTouch7, [00000237B18E3100][00000237A5334E40 49] iPhone5S, [00000237B1929B00][00000237A5338FC0 49] iPhone6Plus, [00000237B18E0300][00000237A5341140 49] iPhone6S, [00000237B1929C00][00000237A53492C0 49] iPhone6SPlus, [00000237B18E1F00][00000237A534D440 49] iPhone7Plus, [00000237B1992600][00000237A53515C0 49] iPhoneSE, [00000237B18E3300][00000237A8A3F740 49] iPhone8, [00000237B1992D00][00000237A8A5F8C0 49] iPhone8Plus, [00000237B18E1600][00000237A8A63A40 49] iPhoneX, [00000237B1992300][00000237A8A71BC0 49] iPhoneXS, [00000237B18E2100][00000237A8AAE1C0 49] iPhoneXSMax, [00000237B1990A00][00000237A8AB2340 49] iPhoneXR, [00000237B18E1E00][00000237A8AB64C0 49] iPhone11, [00000237B1990100][00000237A8ABA640 49] iPhone11Pro, [00000237B18E0B00][00000237A5328780 49] iPhone11ProMax, [00000237B1991F00][00000237A8ABE8C0 49] iPhoneSE2, [00000237B18E2F00][00000237B23ECA00 49] iPhone12Mini, [00000237B1990C00][00000237A8A42B40 49] iPhone12, [00000237B18E0C00][00000237A86B6CC0 49] iPhone12Pro, [00000237B1992100][00000237A86BAE40 49] iPhone12ProMax, [00000237B18E2500][00000237A86C2FC0 49] iPadPro105, [00000237B1990700][00000237A8719140 49] iPadPro129, [00000237B18E0500][00000237A871D2C0 49] iPadPro97, [00000237B1991000][00000237B2585440 49] iPadPro2_129, [00000237B18E2E00][00000237B25955C0 49] iPad5, [00000237B1990400][00000237B2599740 49] iPad6, [00000237B18E2300][00000237B259D8C0 49] iPad7, [00000237B1991800][00000237B25A5A40 49] iPad8, [00000237B18E2700][00000237B25B3BC0 49] iPadPro11, [00000237B1992E00][00000237B25B61C0 49] iPadPro2_11, [00000237B18E0600][00000237B25BA340 49] iPadPro3_129, [00000237B1992000][00000237B25BE4C0 49] iPadPro4_129, [00000237B18E1900][00000237B25C2640 49] AppleTV, [00000237B1992900][00000237B25C67C0 49] AppleTV4K, [00000237B18E0900][00000237B25CA940 49] TVOS, [00000237B1992C00][00000237A86B2A80 49] Mac, [00000237B18E3D00][00000237B2616BC0 49] MacClient, [00000237B1992A00][00000237B3B6ED00 49] MacNoEditor, [00000237B18E3600][00000237B3B7AE80 49] MacServer, [00000237B1990900][00000237B3B7F000 49] Linux, [00000237B18E2900][00000237B3B83180 49] LinuxAArch64, [00000237B1990200][00000237B3BC7300 49] LinuxNoEditor, [00000237B18E1A00][00000237B3BCB480 49] LinuxAArch64NoEditor, [00000237B1990300][00000237B26E7600 49] LinuxClient, [00000237B18E3400][00000237B26EB780 49] LinuxAArch64Client, [00000237B1991E00][00000237B26EF900 49] LinuxServer, [00000237B190D200][00000237B26F3A80 49] LinuxAArch64Server, [00000237B192AD00][00000237B26F7C00 49] Android, [00000237B190F500][00000237A5B18200 49] Android_Low, [00000237B192B900][00000237A5B1C380 49] Android_Mid, [00000237B190F600][00000237A5B20500 49] Android_High, [00000237B1929600][00000237A5B24680 49] Android_Default, [00000237B190F100][00000237A5B28800 49] Android_Adreno4xx, [00000237B192B400][00000237A5B2C980 49] Android_Adreno5xx_Low, [00000237B190D100][00000237A5B52B00 49] Android_Adreno5xx, [00000237B1929A00][00000237B3B76C40 49] Android_Adreno6xx, [00000237B190E300][00000237A5B56D80 49] Android_Adreno6xx_Vulkan, [00000237B1928A00][00000237B26E2EC0 49] Android_Mali_T6xx, [00000237B190CF00][00000237A5B5B040 49] Android_Mali_T7xx, [00000237B192B000][00000237B3B731C0 49] Android_Mali_T8xx, [00000237B190EC00][00000237A5B5F340 49] Android_Mali_G71, [00000237B192B800][00000237A5B634C0 49] Android_Mali_G72, [00000237B190F700][00000237A5B67640 49] Android_Mali_G72_Vulkan, [00000237B192B200][00000237A5B6B7C0 49] Android_Mali_G76, [00000237B190CD00][00000237A5B6F940 49] Android_Mali_G76_Vulkan, [00000237B192A200][00000237A5B73AC0 49] Android_Mali_G77, [00000237B190D500][00000237A5B760C0 49] Android_Mali_G77_Vulkan, [00000237B1928800][00000237A5B7A240 49] Android_Mali_G78, [00000237B190DA00][00000237A87203C0 49] Android_Mali_G78_Vulkan, [00000237B1928900][00000237A8724540 49] Android_Mali_G710, [00000237B190C400][00000237A87286C0 49] Android_Mali_G710_Vulkan, [00000237B1929400][00000237A872C840 49] Android_Vulkan_SM5, [00000237B190D800][00000237A87309C0 49] Android_PowerVR_G6xxx, [00000237B1928400][00000237A8734B40 49] Android_PowerVR_GT7xxx, [00000237B190E800][00000237A8738CC0 49] Android_PowerVR_GE8xxx, [00000237B1928200][00000237B3B86E00 49] Android_PowerVR_GM9xxx, [00000237B190FD00][00000237A873CF40 49] Android_PowerVR_GM9xxx_Vulkan, [00000237B1929E00][00000237A8741080 49] Android_TegraK1, [00000237B190D900][00000237A87451C0 49] Android_Unknown_Vulkan, [00000237B1929500][00000237B3B8F340 49] Lumin, [00000237B1993300][00000237B3B934C0 49] Lumin_Desktop, [00000237B1928E00][00000237B3B97640 49] HoloLens, 
+[2022.03.05-12.04.40:871][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.05-12.04.40:871][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.05-12.04.40:871][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.05-12.04.40:871][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.05-12.04.40:871][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.05-12.04.40:883][  0]LogNetVersion: CtrlIt 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3991039347)
+[2022.03.05-12.04.41:172][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.03.05-12.04.41:215][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.05-12.04.41:219][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.03.05-12.04.41:219][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.03.05-12.04.41:219][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.05-12.04.41:413][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 149CBBDE4816EED63952BCA2CD260891 | Instance: 981861F0456D846E8F9FFFB512A6285D (DESKTOP-LGQ5TKE-11020).
+[2022.03.05-12.04.41:500][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.05-12.04.41:503][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.05-12.04.41:516][  0]LogPython: Using Python 3.7.7
+[2022.03.05-12.04.42:060][  0]SourceControl: Source control is disabled
+[2022.03.05-12.04.42:060][  0]SourceControl: Source control is disabled
+[2022.03.05-12.04.42:062][  0]SourceControl: Source control is disabled
+[2022.03.05-12.04.42:064][  0]SourceControl: Source control is disabled
+[2022.03.05-12.04.42:066][  0]SourceControl: Source control is disabled
+[2022.03.05-12.04.42:075][  0]LogUProjectInfo: Found projects:
+[2022.03.05-12.04.42:080][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.05-12.04.42:080][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.05-12.04.42:081][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.05-12.04.42:238][  0]LogOpenImageDenoise: OIDN starting up
+[2022.03.05-12.04.42:258][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.05-12.04.42:270][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.05-12.04.42:270][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.05-12.04.42:366][  0]LogCollectionManager: Loaded 0 collections in 0.001508 seconds
+[2022.03.05-12.04.42:385][  0]LogFileCache: Scanning file cache for directory 'C:/Games/Ctrl+It/CtrlIt/Saved/Collections/' took 0.00s
+[2022.03.05-12.04.42:385][  0]LogFileCache: Scanning file cache for directory 'C:/Games/Ctrl+It/CtrlIt/Content/Developers/Brave/Collections/' took 0.00s
+[2022.03.05-12.04.42:385][  0]LogFileCache: Scanning file cache for directory 'C:/Games/Ctrl+It/CtrlIt/Content/Collections/' took 0.00s
+[2022.03.05-12.04.42:385][  0]LogOcInput: OculusInput pre-init called
+[2022.03.05-12.04.42:571][  0]LogEngine: Initializing Engine...
+[2022.03.05-12.04.42:573][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.03.05-12.04.42:573][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.03.05-12.04.42:573][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.05-12.04.42:574][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.05-12.04.42:675][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.05-12.04.42:681][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.05-12.04.42:682][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.05-12.04.42:684][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.03.05-12.04.42:685][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.03.05-12.04.42:685][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.05-12.04.42:685][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.05-12.04.42:685][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.05-12.04.42:685][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.05-12.04.42:685][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.05-12.04.42:685][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.05-12.04.42:685][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.05-12.04.42:685][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.05-12.04.42:685][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.05-12.04.42:685][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.05-12.04.42:685][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.05-12.04.42:685][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.05-12.04.42:685][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.05-12.04.42:685][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.05-12.04.42:696][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.05-12.04.42:696][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.05-12.04.42:744][  0]LogAudioMixer: Display: Using Audio Device Logitech Speakers (Realtek(R) Audio)
+[2022.03.05-12.04.42:746][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.05-12.04.42:747][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.05-12.04.42:748][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.05-12.04.42:748][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.05-12.04.42:748][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.05-12.04.42:748][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.05-12.04.42:749][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.05-12.04.42:749][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.05-12.04.42:749][  0]LogInit: FAudioDevice initialized.
+[2022.03.05-12.04.42:749][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.05-12.04.42:749][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.05-12.04.42:791][  0]LogDerivedDataCache: Saved boot cache 0.04s 94MB C:/Users/Brave/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.05-12.04.42:791][  0]LogInit: Texture streaming: Enabled
+[2022.03.05-12.04.42:799][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.03.05-12.04.42:802][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.05-12.04.42:802][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.05-12.04.42:804][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.05-12.04.42:824][  0]LogInit: Transaction tracking system initialized
+[2022.03.05-12.04.42:838][  0]BlueprintLog: New page: Editor Load
+[2022.03.05-12.04.42:880][  0]LocalizationService: Localization service is disabled
+[2022.03.05-12.04.42:895][  0]TimingProfiler: Initialize
+[2022.03.05-12.04.42:895][  0]TimingProfiler: OnSessionChanged
+[2022.03.05-12.04.42:895][  0]LoadingProfiler: Initialize
+[2022.03.05-12.04.42:895][  0]LoadingProfiler: OnSessionChanged
+[2022.03.05-12.04.42:895][  0]NetworkingProfiler: Initialize
+[2022.03.05-12.04.42:895][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.05-12.04.42:895][  0]MemoryProfiler: Initialize
+[2022.03.05-12.04.42:895][  0]MemoryProfiler: OnSessionChanged
+[2022.03.05-12.04.42:935][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.05-12.04.42:935][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.05-12.04.42:936][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.03.05-12.04.42:998][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.05-12.04.42:998][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.05-12.04.43:127][  0]LogFileCache: Scanning file cache for directory 'C:/Games/Ctrl+It/CtrlIt/Content/' took 0.00s
+[2022.03.05-12.04.43:276][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.05-12.04.43:278][  0]SourceControl: Source control is disabled
+[2022.03.05-12.04.43:278][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.187
+[2022.03.05-12.04.43:278][  0]Cmd: MAP LOAD FILE="../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/MainMenu/MainMenu_Blueprint/Maps/Level_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.05-12.04.43:278][  0]LightingResults: New page: Lighting Build
+[2022.03.05-12.04.43:279][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.05-12.04.43:279][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-12.04.43:279][  0]MapCheck: New page: Map Check
+[2022.03.05-12.04.43:279][  0]LightingResults: New page: Lighting Build
+[2022.03.05-12.04.43:284][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.05-12.04.43:286][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.03.05-12.04.43:301][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_MainMenu'.
+[2022.03.05-12.04.43:302][  0]LogAIModule: Creating AISystem for world Level_MainMenu
+[2022.03.05-12.04.43:303][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.05-12.04.43:308][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.03.05-12.04.43:308][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.05-12.04.43:308][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.155ms to complete.
+[2022.03.05-12.04.43:308][  0]LogFileHelpers: Loading map 'Level_MainMenu' took 0.030
+[2022.03.05-12.04.43:309][  0]LogUnrealEdMisc: Total Editor Startup Time, took 5.218
+[2022.03.05-12.04.43:396][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-12.04.43:401][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-12.04.43:405][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-12.04.43:410][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.05-12.04.43:421][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0075 seconds. Added 3822 classes and 928 folders.
+[2022.03.05-12.04.43:422][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.03.05-12.04.43:423][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.05-12.04.43:423][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:423][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.05-12.04.43:423][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:423][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.03.05-12.04.43:423][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.03.05-12.04.43:424][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.05-12.04.43:424][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:424][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.05-12.04.43:424][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:424][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.03.05-12.04.43:424][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.03.05-12.04.43:425][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.03.05-12.04.43:425][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:425][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.03.05-12.04.43:425][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:425][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.03.05-12.04.43:425][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.03.05-12.04.43:425][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.05-12.04.43:425][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:425][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.05-12.04.43:425][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:425][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.03.05-12.04.43:425][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.03.05-12.04.43:426][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.05-12.04.43:426][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:426][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.05-12.04.43:426][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:426][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.03.05-12.04.43:426][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.03.05-12.04.43:426][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.05-12.04.43:426][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:426][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.05-12.04.43:426][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:426][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.03.05-12.04.43:426][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.03.05-12.04.43:427][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.05-12.04.43:427][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:427][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.05-12.04.43:427][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:427][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.03.05-12.04.43:427][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.05-12.04.43:427][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.05-12.04.43:427][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:427][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.05-12.04.43:427][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:427][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.03.05-12.04.43:427][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.03.05-12.04.43:428][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.05-12.04.43:428][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:428][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.05-12.04.43:428][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:428][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.03.05-12.04.43:428][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.03.05-12.04.43:428][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.05-12.04.43:428][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:428][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.05-12.04.43:428][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:428][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.03.05-12.04.43:428][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.03.05-12.04.43:429][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.05-12.04.43:429][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:429][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.05-12.04.43:429][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:429][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.03.05-12.04.43:429][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.03.05-12.04.43:429][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.05-12.04.43:429][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:429][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.05-12.04.43:429][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:429][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.03.05-12.04.43:429][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.03.05-12.04.43:429][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.05-12.04.43:429][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.05-12.04.43:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.03.05-12.04.43:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.03.05-12.04.43:430][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.05-12.04.43:430][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.05-12.04.43:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.03.05-12.04.43:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.05-12.04.43:430][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.05-12.04.43:430][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.05-12.04.43:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:430][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.03.05-12.04.43:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.03.05-12.04.43:431][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.05-12.04.43:431][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:431][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.05-12.04.43:431][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:431][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.03.05-12.04.43:431][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.03.05-12.04.43:431][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.05-12.04.43:431][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:431][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.05-12.04.43:431][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:431][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.03.05-12.04.43:431][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.03.05-12.04.43:432][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.05-12.04.43:432][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:432][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.05-12.04.43:432][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:432][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.03.05-12.04.43:432][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.03.05-12.04.43:432][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.05-12.04.43:432][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:432][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.05-12.04.43:432][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:432][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.03.05-12.04.43:432][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.03.05-12.04.43:433][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.05-12.04.43:433][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:433][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.05-12.04.43:433][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:433][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.03.05-12.04.43:433][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.03.05-12.04.43:433][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.05-12.04.43:433][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:433][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.05-12.04.43:433][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:433][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.03.05-12.04.43:433][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.03.05-12.04.43:434][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.05-12.04.43:434][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:434][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.05-12.04.43:434][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:434][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.03.05-12.04.43:434][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.03.05-12.04.43:434][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.03.05-12.04.43:434][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:434][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.03.05-12.04.43:434][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:434][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.03.05-12.04.43:434][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.03.05-12.04.43:435][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.05-12.04.43:435][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:435][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.05-12.04.43:435][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:435][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.03.05-12.04.43:435][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.03.05-12.04.43:435][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.05-12.04.43:435][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:435][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.05-12.04.43:435][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:435][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.03.05-12.04.43:435][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.03.05-12.04.43:436][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.05-12.04.43:436][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.04.43:436][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.05-12.04.43:436][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.03.05-12.04.43:436][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.03.05-12.04.43:436][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.03.05-12.04.43:470][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.03.05-12.04.43:471][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.03.05-12.04.43:712][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.03.05-12.04.43:772][  0]LogSlate: Took 0.000110 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.05-12.04.43:773][  0]LogSlate: Took 0.000085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.05-12.04.43:773][  0]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.05-12.04.43:838][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2022.03.05-12.04.43:884][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.03.05-12.04.43:885][  0]LogLoad: (Engine Initialization) Total time: 5.79 seconds
+[2022.03.05-12.04.43:885][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.05-12.04.43:929][  0]LogAssetRegistry: Asset discovery search completed in 3.3377 seconds
+[2022.03.05-12.04.43:933][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.03.05-12.04.43:934][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.05-12.04.44:055][  7]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.05-12.04.44:949][ 61]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Blueprint_GameModeBase.Blueprint_GameModeBase:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Blueprint_GameModeBase.PackageMetaData'
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Blueprint_GameModeBase.Blueprint_GameModeBase_C' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Blueprint_GameModeBase.PackageMetaData'
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Blueprint_GameModeBase.Blueprint_GameModeBase:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Blueprint_GameModeBase.PackageMetaData'
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Blueprint_GameModeBase.Blueprint_GameModeBase:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Blueprint_GameModeBase.PackageMetaData'
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Blueprint_GameModeBase.SKEL_Blueprint_GameModeBase_C:ReceiveBeginPlay' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Blueprint_GameModeBase.PackageMetaData'
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Blueprint_GameModeBase.SKEL_Blueprint_GameModeBase_C:ReceiveTick' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Blueprint_GameModeBase.PackageMetaData'
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Blueprint_GameModeBase.SKEL_Blueprint_GameModeBase_C:UserConstructionScript' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Blueprint_GameModeBase.PackageMetaData'
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Blueprint_GameModeBase.SKEL_Blueprint_GameModeBase_C' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Blueprint_GameModeBase.PackageMetaData'
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.Blueprint_PaperCharacterBase_C' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.PackageMetaData'
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.Blueprint_PaperCharacterBase:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.PackageMetaData'
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.Blueprint_PaperCharacterBase:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.PackageMetaData'
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.Blueprint_PaperCharacterBase:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.PackageMetaData'
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.SKEL_Blueprint_PaperCharacterBase_C:ReceiveBeginPlay' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.PackageMetaData'
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.SKEL_Blueprint_PaperCharacterBase_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.PackageMetaData'
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.SKEL_Blueprint_PaperCharacterBase_C:UpdateAnimation' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.PackageMetaData'
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.SKEL_Blueprint_PaperCharacterBase_C:ReceiveTick' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.PackageMetaData'
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.SKEL_Blueprint_PaperCharacterBase_C:InpAxisEvt_AxisMap_MoveForward_K2Node_InputAxisEvent_0' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.PackageMetaData'
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.SKEL_Blueprint_PaperCharacterBase_C:InpAxisEvt_AxisMap_MoveBackward_K2Node_InputAxisEvent_1' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.PackageMetaData'
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.SKEL_Blueprint_PaperCharacterBase_C:UserConstructionScript' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.PackageMetaData'
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.SKEL_Blueprint_PaperCharacterBase_C' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.PackageMetaData'
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.Blueprint_PaperCharacterBase_C:ReceiveTick' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.PackageMetaData'
+[2022.03.05-12.04.53:825][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.Blueprint_PaperCharacterBase_C:ReceiveBeginPlay' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.PackageMetaData'
+[2022.03.05-12.04.53:826][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Maps/Level_01_Village.Level_01_Village_C' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Maps/Level_01_Village.PackageMetaData'
+[2022.03.05-12.04.53:826][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Maps/Level_01_Village.Level_01_Village:PersistentLevel.Level_01_Village.EventGraph.K2Node_Event_0' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Maps/Level_01_Village.PackageMetaData'
+[2022.03.05-12.04.53:826][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Maps/Level_01_Village.Level_01_Village:PersistentLevel.Level_01_Village.EventGraph.K2Node_Event_1' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Maps/Level_01_Village.PackageMetaData'
+[2022.03.05-12.04.53:826][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Maps/Level_01_Village.SKEL_Level_01_Village_C:ReceiveBeginPlay' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Maps/Level_01_Village.PackageMetaData'
+[2022.03.05-12.04.53:826][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Maps/Level_01_Village.SKEL_Level_01_Village_C:ReceiveTick' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Maps/Level_01_Village.PackageMetaData'
+[2022.03.05-12.04.53:826][585]LogMetaData: Removing '/Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Maps/Level_01_Village.SKEL_Level_01_Village_C' ref from Metadata '/Game/Ctrl+It/Level01_Village/Level01_Blueprint/Maps/Level_01_Village.PackageMetaData'
+[2022.03.05-12.04.53:860][585]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/Level_01_Village_BuiltData0C3693294E7597A00FB87BAAB717D689.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Maps/Level_01_Village_BuiltData.uasset'
+[2022.03.05-12.04.53:863][585]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/Blueprint_GameModeBase4CFBCB1A4E9BA27143D8B1907222E0AC.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Blueprint_GameModeBase.uasset'
+[2022.03.05-12.04.53:886][585]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/Blueprint_PaperCharacterBaseAF99EA3F4E7354D4F110B6BB29030CBD.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.uasset'
+[2022.03.05-12.04.53:894][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.03.05-12.04.53:902][585]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/Level_01_VillageB51523074878CDD0DC6D33A74315BAFA.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Maps/Level_01_Village.umap'
+[2022.03.05-12.04.53:903][585]LogFileHelpers: Saving map 'Level_01_Village' took 0.016
+[2022.03.05-12.04.53:962][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.03.05-12.04.53:966][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.03.05-12.04.53:970][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.03.05-12.04.53:974][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2022.03.05-12.04.53:985][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.03.05-12.04.53:989][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.03.05-12.04.54:017][585]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.05-12.04.54:017][585]LogContentValidation: Display: Validating Blueprint /Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Character/Blueprint_PaperCharacterBase.Blueprint_PaperCharacterBase
+[2022.03.05-12.04.54:017][585]LogContentValidation: Display: Validating Blueprint /Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Blueprint_GameModeBase.Blueprint_GameModeBase
+[2022.03.05-12.04.54:017][585]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Maps/Level_01_Village_BuiltData.Level_01_Village_BuiltData
+[2022.03.05-12.04.54:017][585]LogContentValidation: Display: Validating World /Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Maps/Level_01_Village.Level_01_Village
+[2022.03.05-12.04.57:998][823]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Ctrl+It/Level01_Village_Old/Level01_Blueprint/Blueprints/Blueprint_GameModeBase.Blueprint_GameModeBase
+[2022.03.05-12.04.58:061][823]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.03.05-12.05.31:754][783]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.03.05-12.05.31:754][783]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.05-12.05.31:754][783]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.05-12.05.31:754][783]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.05-12.05.31:766][783]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.03.05-12.05.31:771][783]LogPackFactory: Copied "../../../Templates/TP_2DSideScrollerBP/Content/2DSideScrollerBP/2DSideScrollerOverview.uasset" to "../../../../../../Games/Ctrl+It/CtrlIt/Content/2DSideScrollerBP/2DSideScrollerOverview.uasset"
+[2022.03.05-12.05.31:776][783]LogPackFactory: Copied "../../../Templates/TP_2DSideScrollerBP/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset" to "../../../../../../Games/Ctrl+It/CtrlIt/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset"
+[2022.03.05-12.05.31:781][783]LogPackFactory: Copied "../../../Templates/TP_2DSideScrollerBP/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset" to "../../../../../../Games/Ctrl+It/CtrlIt/Content/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset"
+[2022.03.05-12.05.31:785][783]LogPackFactory: Copied "../../../Templates/TP_2DSideScrollerBP/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" to "../../../../../../Games/Ctrl+It/CtrlIt/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap"
+[2022.03.05-12.05.31:789][783]LogPackFactory: Copied "../../../Templates/TP_2DSideScrollerBP/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset" to "../../../../../../Games/Ctrl+It/CtrlIt/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset"
+[2022.03.05-12.05.31:821][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/2DSideScrollerOverview" FILE="../../../../../../Games/Ctrl+It/CtrlIt/Content/2DSideScrollerBP/2DSideScrollerOverview.uasset" SILENT=true
+[2022.03.05-12.05.31:824][783]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/2DSideScrollerOverview1C2353444C99B5147A6554AF83A9C16E.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/2DSideScrollerBP/2DSideScrollerOverview.uasset'
+[2022.03.05-12.05.31:839][783]AssetCheck: New page: Asset Save: 2DSideScrollerOverview
+[2022.03.05-12.05.31:839][783]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview
+[2022.03.05-12.05.36:549][ 66]LogSlate: Window 'Add Content to the Project' being destroyed
+[2022.03.05-12.05.45:020][572]LogTexture: Display: Building textures: 2DBackgroundTile (OODLE_AutoDXT, 256X256)
+[2022.03.05-12.05.45:020][572]LogMaterial: Display: Missing cached shadermap for PrototypingSpriteMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 38241816E8AD3DEFC5E6C758FAE371670E4718F7), compiling. 
+[2022.03.05-12.05.45:038][572]LogShaderCompilers: Display: Submitted 11 shader compile jobs with 'Low' priority
+[2022.03.05-12.05.45:118][572]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2022.03.05-12.05.45:118][572]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2022.03.05-12.05.45:118][572]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2022.03.05-12.05.45:118][572]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2022.03.05-12.05.45:118][572]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2022.03.05-12.05.45:118][572]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2022.03.05-12.05.45:118][572]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2022.03.05-12.05.45:118][572]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2022.03.05-12.05.45:118][572]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2022.03.05-12.05.45:118][572]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2022.03.05-12.05.45:118][572]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2022.03.05-12.05.45:118][572]LogShaderCompilers: Display: Started 11 'Local' shader compile jobs with 'Low' priority
+[2022.03.05-12.05.45:917][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/PrototypingSpriteMaterial57C3B28741C3BFB78A1F79A40D7E6EC8.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Materials/PrototypingSpriteMaterial.uasset'
+[2022.03.05-12.05.45:926][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/Background_Sprite5F1EDDCB45E4B95B915D45801A3CFA35.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/Background_Sprite.uasset'
+[2022.03.05-12.05.45:926][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/Background_Sprite" FILE="../../../../../../Games/Ctrl+It/CtrlIt/Content/2DSideScroller/Sprites/Background_Sprite.uasset" SILENT=true
+[2022.03.05-12.05.45:927][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/Background_Sprite24AA8F1544DC35C4E5D986AB0BD59ED9.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/2DSideScroller/Sprites/Background_Sprite.uasset'
+[2022.03.05-12.05.45:933][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/IdleAnimationE3196DBC467512EEF030D2B73868C745.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/IdleAnimation.uasset'
+[2022.03.05-12.05.45:940][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/Ledge9298FC8641E2F054C5A5EE874FEDBC33.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/Ledge.uasset'
+[2022.03.05-12.05.45:940][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScroller/Sprites/Ledge" FILE="../../../../../../Games/Ctrl+It/CtrlIt/Content/2DSideScroller/Sprites/Ledge.uasset" SILENT=true
+[2022.03.05-12.05.45:941][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/LedgeE017E381491B3378D12B678156E566EC.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/2DSideScroller/Sprites/Ledge.uasset'
+[2022.03.05-12.05.45:947][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/PrototypingSprite10EA047C419CEAABAE60D9878AC2792D.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/PrototypingSprite.uasset'
+[2022.03.05-12.05.45:954][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunningAnimationA6543CD245A16524848FCA8A06E6DD5D.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunningAnimation.uasset'
+[2022.03.05-12.05.45:960][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/IdleCycle115A9CEE54DB0EB9B0C2CEA8A5FD0FBC2.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/IdleFrames/IdleCycle1.uasset'
+[2022.03.05-12.05.45:967][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/IdleCycle2E48077BC4198273441007F9421B9D4CB.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/IdleFrames/IdleCycle2.uasset'
+[2022.03.05-12.05.45:973][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/IdleCycle3503273BD48CE575617CD8B9CD00E2F86.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/IdleFrames/IdleCycle3.uasset'
+[2022.03.05-12.05.45:980][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/IdleCycle449290E6A4774936AFC95E3B85F1969C0.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/IdleFrames/IdleCycle4.uasset'
+[2022.03.05-12.05.45:987][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/IdleCycle59E66EECB4FBC37EB9A9CA89B629EC02B.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/IdleFrames/IdleCycle5.uasset'
+[2022.03.05-12.05.45:994][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/IdleCycle622BBAE8C4601D2EFD226528778595FA6.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/IdleFrames/IdleCycle6.uasset'
+[2022.03.05-12.05.46:001][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/IdleCycle7F23F5FC34310B01A8B7BE09A58790A8B.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/IdleFrames/IdleCycle7.uasset'
+[2022.03.05-12.05.46:008][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/IdleCycle84FEE0BB944BC926585B174815180D196.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/IdleFrames/IdleCycle8.uasset'
+[2022.03.05-12.05.46:015][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_18245C93D4D8800AA0A4CE38C954ECC18.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_1.uasset'
+[2022.03.05-12.05.46:022][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_10FF192C374E2020E2A50A1CB18B8828F0.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_10.uasset'
+[2022.03.05-12.05.46:040][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_11BEFFB78745FCCB1A100046BC92B063BB.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_11.uasset'
+[2022.03.05-12.05.46:047][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_12B68860C146529172DAD28AA9257AE5FA.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_12.uasset'
+[2022.03.05-12.05.46:054][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_1319C704074D194111E2EAEF8DDAACB9ED.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_13.uasset'
+[2022.03.05-12.05.46:061][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_14BB88FDEE4444530DAC5F1EA45A61F8B5.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_14.uasset'
+[2022.03.05-12.05.46:068][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_15318D4032407DFF7DFE4442BC0CF30687.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_15.uasset'
+[2022.03.05-12.05.46:075][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_1693FC922E447065249E66C191B9E2B443.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_16.uasset'
+[2022.03.05-12.05.46:082][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_26A8168E141C4E3E05AF92A873B95C570.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_2.uasset'
+[2022.03.05-12.05.46:089][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_3ECE2705249AA0DA4FC4B89A2035CDA5B.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_3.uasset'
+[2022.03.05-12.05.46:096][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_484F326124733C3548370A28A8EAA89D3.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_4.uasset'
+[2022.03.05-12.05.46:103][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_5753C4566452E74718EED06BD0C05148C.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_5.uasset'
+[2022.03.05-12.05.46:110][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_69536755147D3FFFE0C82DCA89A090252.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_6.uasset'
+[2022.03.05-12.05.46:117][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_7846AA72143205641BC977ABC0C0A66B9.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_7.uasset'
+[2022.03.05-12.05.46:124][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_8A8AA02FB42E5C4A098818F935EFE5C7F.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_8.uasset'
+[2022.03.05-12.05.46:131][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_96D9AE8214D6AAE1563A8B88EBC13B679.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_9.uasset'
+[2022.03.05-12.05.46:140][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/2DBackgroundE8144DB84624C3D99E698EA16C4C3841.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Textures/2DBackground.uasset'
+[2022.03.05-12.05.46:147][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/2DBackgroundBlockAtlas9B0CE5C44ECA8E47058F9F9FAEDA1C20.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Textures/2DBackgroundBlockAtlas.uasset'
+[2022.03.05-12.05.46:153][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/2DBackgroundTile14667C8442A3B1286340CB9A6C1FC02B.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Textures/2DBackgroundTile.uasset'
+[2022.03.05-12.05.46:162][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/2DCharacter_IdleAnimAtlas9E3B5B2D4F67FF7089483F8426D6A6F6.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas.uasset'
+[2022.03.05-12.05.46:172][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/2DCharacter_RunAnimAtlas0C3EE53E435A3C0063433B9C2AC93BFB.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Textures/2DCharacter_RunAnimAtlas.uasset'
+[2022.03.05-12.05.46:466][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.03.05-12.05.46:481][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.05.46:496][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.05-12.05.46:510][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.05-12.05.46:524][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.05.46:539][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.05-12.05.46:553][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.05-12.05.46:567][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.03.05-12.05.46:581][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.05-12.05.46:595][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.05.46:610][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.05-12.05.46:624][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.03.05-12.05.46:638][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.05-12.05.46:652][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.03.05-12.05.46:668][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.05-12.05.46:683][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.05-12.05.46:697][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.03.05-12.05.46:711][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.03.05-12.05.46:726][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.03.05-12.05.46:742][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.03.05-12.05.46:757][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.03.05-12.05.46:772][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.05.46:786][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.05-12.05.46:800][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.05-12.05.46:815][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.05.46:830][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.05-12.05.46:845][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.05-12.05.46:860][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.03.05-12.05.46:878][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.05-12.05.46:893][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.05-12.05.46:907][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.03.05-12.05.46:921][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.03.05-12.05.46:935][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.03.05-12.05.46:956][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.03.05-12.05.46:971][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.05-12.05.47:004][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/2DSideScrollerCharacter8C195750441F398E93AE7AAD55B9E1B7.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2022.03.05-12.05.47:069][572]LogMetaData: Removing '/Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview_C' ref from Metadata '/Game/2DSideScrollerBP/2DSideScrollerOverview.PackageMetaData'
+[2022.03.05-12.05.47:069][572]LogMetaData: Removing '/Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/2DSideScrollerOverview.SKEL_2DSideScrollerOverview_C' ref from Metadata '/Game/2DSideScrollerBP/2DSideScrollerOverview.PackageMetaData'
+[2022.03.05-12.05.47:069][572]LogMetaData: Removing '/Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2022.03.05-12.05.47:069][572]LogMetaData: Removing '/Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_5' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2022.03.05-12.05.47:070][572]LogMetaData: Removing '/Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:UpdateAnimation' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2022.03.05-12.05.47:070][572]LogMetaData: Removing '/Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2022.03.05-12.05.47:070][572]LogMetaData: Removing '/Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:ReceiveTick' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2022.03.05-12.05.47:070][572]LogMetaData: Removing '/Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C:UserConstructionScript' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2022.03.05-12.05.47:070][572]LogMetaData: Removing '/Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.SKEL_2DSideScrollerCharacter_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2022.03.05-12.05.47:070][572]LogMetaData: Removing '/Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ReceiveTick' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2022.03.05-12.05.47:070][572]LogMetaData: Removing '/Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter_C:ReceiveBeginPlay' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.PackageMetaData'
+[2022.03.05-12.05.47:070][572]LogMetaData: Removing '/Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.PackageMetaData'
+[2022.03.05-12.05.47:070][572]LogMetaData: Removing '/Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.SKEL_2DSideScrollerGameMode_C:UserConstructionScript' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.PackageMetaData'
+[2022.03.05-12.05.47:070][572]LogMetaData: Removing '/Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.SKEL_2DSideScrollerGameMode_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.PackageMetaData'
+[2022.03.05-12.05.47:071][572]LogMetaData: Removing '/Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' ref from Metadata '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.PackageMetaData'
+[2022.03.05-12.05.47:071][572]LogMetaData: Removing '/Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.SKEL_2DSideScrollerExampleMap_C' ref from Metadata '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.PackageMetaData'
+[2022.03.05-12.05.47:092][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/2DSideScrollerExampleMap_BuiltDa4CE0371C4148992C094F32BB1619C10C.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset'
+[2022.03.05-12.05.47:097][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/2DSideScrollerOverviewBEA373724E4B0AA6E2E26F894E9B40F3.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScrollerBP/2DSideScrollerOverview.uasset'
+[2022.03.05-12.05.47:114][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/2DSideScrollerCharacter21E0B7494EF0654C718B10A5B4A0AAD5.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2022.03.05-12.05.47:117][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/2DSideScrollerGameModeD810D861433E92C1604E38A31BF97FA6.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.uasset'
+[2022.03.05-12.05.47:136][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.03.05-12.05.47:143][572]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/2DSideScrollerExampleMap63F22D3047F22E0DA78B7A8B02B26BC0.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2022.03.05-12.05.47:144][572]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 0.027
+[2022.03.05-12.05.47:239][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.03.05-12.05.47:254][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.03.05-12.05.47:268][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.03.05-12.05.47:283][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.03.05-12.05.47:297][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.03.05-12.05.47:319][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.03.05-12.05.47:334][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.03.05-12.05.47:379][572]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.05-12.05.47:379][572]LogContentValidation: Display: Validating Blueprint /Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview
+[2022.03.05-12.05.47:379][572]LogContentValidation: Display: Validating Texture2D /Game/Ctrl+It/Level_01_Village/2DSideScroller/Textures/2DBackgroundTile.2DBackgroundTile
+[2022.03.05-12.05.47:379][572]LogContentValidation: Display: Validating Material /Game/Ctrl+It/Level_01_Village/2DSideScroller/Materials/PrototypingSpriteMaterial.PrototypingSpriteMaterial
+[2022.03.05-12.05.47:379][572]LogContentValidation: Display: Validating Texture2D /Game/Ctrl+It/Level_01_Village/2DSideScroller/Textures/2DBackground.2DBackground
+[2022.03.05-12.05.47:379][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/Background_Sprite.Background_Sprite
+[2022.03.05-12.05.47:379][572]LogContentValidation: Display: Validating Texture2D /Game/Ctrl+It/Level_01_Village/2DSideScroller/Textures/2DCharacter_IdleAnimAtlas.2DCharacter_IdleAnimAtlas
+[2022.03.05-12.05.47:379][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/IdleFrames/IdleCycle1.IdleCycle1
+[2022.03.05-12.05.47:379][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/IdleFrames/IdleCycle2.IdleCycle2
+[2022.03.05-12.05.47:379][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/IdleFrames/IdleCycle3.IdleCycle3
+[2022.03.05-12.05.47:379][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/IdleFrames/IdleCycle4.IdleCycle4
+[2022.03.05-12.05.47:379][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/IdleFrames/IdleCycle5.IdleCycle5
+[2022.03.05-12.05.47:379][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/IdleFrames/IdleCycle6.IdleCycle6
+[2022.03.05-12.05.47:379][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/IdleFrames/IdleCycle7.IdleCycle7
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/IdleFrames/IdleCycle8.IdleCycle8
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating PaperFlipbook /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/IdleAnimation.IdleAnimation
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating Texture2D /Game/Ctrl+It/Level_01_Village/2DSideScroller/Textures/2DBackgroundBlockAtlas.2DBackgroundBlockAtlas
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/Ledge.Ledge
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/PrototypingSprite.PrototypingSprite
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating Texture2D /Game/Ctrl+It/Level_01_Village/2DSideScroller/Textures/2DCharacter_RunAnimAtlas.2DCharacter_RunAnimAtlas
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_1.RunCycle_1
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_10.RunCycle_10
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_11.RunCycle_11
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_12.RunCycle_12
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_13.RunCycle_13
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_14.RunCycle_14
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_15.RunCycle_15
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_16.RunCycle_16
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_2.RunCycle_2
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_3.RunCycle_3
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_4.RunCycle_4
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_5.RunCycle_5
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_6.RunCycle_6
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_7.RunCycle_7
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_8.RunCycle_8
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunFrames/RunCycle_9.RunCycle_9
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating PaperFlipbook /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/RunningAnimation.RunningAnimation
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating Blueprint /Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating Blueprint /Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/Blueprints/2DSideScrollerGameMode.2DSideScrollerGameMode
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.2DSideScrollerExampleMap_BuiltData
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating World /Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Sprites/Background_Sprite.Background_Sprite
+[2022.03.05-12.05.47:380][572]LogContentValidation: Display: Validating ObjectRedirector /Game/2DSideScroller/Sprites/Ledge.Ledge
+[2022.03.05-12.06.11:204][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/2DBackgroundTileDFCCEE564302F40969D5189EF3134F24.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DBackgroundTile.uasset'
+[2022.03.05-12.06.11:216][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/PrototypingSpriteMaterialBA5ED105437C6A1D6F9F579CD4031ED4.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Materials/PrototypingSpriteMaterial.uasset'
+[2022.03.05-12.06.11:225][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/2DBackground3EBC741E44065ED810B37CB04628C677.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DBackground.uasset'
+[2022.03.05-12.06.11:232][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/Background_SpriteA4EF22474F4CEC1CFC75F793EBCCF998.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/Background_Sprite.uasset'
+[2022.03.05-12.06.11:233][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/Background_Sprite018EEB134B754332BDEF5F8CC4570A6B.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/Background_Sprite.uasset'
+[2022.03.05-12.06.11:242][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/2DCharacter_IdleAnimAtlas3BC0F8C14E1AD065508BDBADADF7F1EE.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DCharacter_IdleAnimAtlas.uasset'
+[2022.03.05-12.06.11:249][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/IdleCycle12F5B5C5845EC05C6AD92C8A23392EE9C.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle1.uasset'
+[2022.03.05-12.06.11:256][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/IdleCycle20BFF19424879711ECAE9709507843FAA.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle2.uasset'
+[2022.03.05-12.06.11:263][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/IdleCycle3FDA63DEB40C225CA5D53779757613AFC.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle3.uasset'
+[2022.03.05-12.06.11:270][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/IdleCycle4CEAE31C44D32F3D2BC14CB886461513F.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle4.uasset'
+[2022.03.05-12.06.11:277][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/IdleCycle54ACFE3DD47CEB5DE8C1460A8DADFD478.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle5.uasset'
+[2022.03.05-12.06.11:284][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/IdleCycle64BF0BEF7411C1E00AA629AAD5E721E14.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle6.uasset'
+[2022.03.05-12.06.11:291][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/IdleCycle779B7ADE842A453432F45EC81CB684F17.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle7.uasset'
+[2022.03.05-12.06.11:298][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/IdleCycle87F32B27F48E0E0E02F29F98653E60FF4.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle8.uasset'
+[2022.03.05-12.06.11:304][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/IdleAnimationB9A35D884AF61281B8221091785545C6.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleAnimation.uasset'
+[2022.03.05-12.06.11:311][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/2DBackgroundBlockAtlasC3991DF24EBCC2D724DC9780D687CF70.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DBackgroundBlockAtlas.uasset'
+[2022.03.05-12.06.11:317][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/LedgeB0E39F5E4D067AB9B9D8CD8721405D67.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/Ledge.uasset'
+[2022.03.05-12.06.11:318][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/Ledge557FC10D4001B913A24B7197670FCAA3.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/Ledge.uasset'
+[2022.03.05-12.06.11:324][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/PrototypingSprite2062E77941199E17757B9187F74BAD01.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/PrototypingSprite.uasset'
+[2022.03.05-12.06.11:334][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/2DCharacter_RunAnimAtlasE6D75F2F486C038328BA068AB02BC300.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DCharacter_RunAnimAtlas.uasset'
+[2022.03.05-12.06.11:341][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_199EE4FFA4F19D8635B1594BDEF9D7C60.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_1.uasset'
+[2022.03.05-12.06.11:348][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_100F0936D942F9514120DD818A9F71BB5C.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_10.uasset'
+[2022.03.05-12.06.11:355][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_11D9D33D114A1F5E95276470BB36C3100A.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_11.uasset'
+[2022.03.05-12.06.11:362][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_12B51EC6474951DD062B01D8B207BAE15F.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_12.uasset'
+[2022.03.05-12.06.11:369][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_139802958B43007CA85595A48EDD70E6E4.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_13.uasset'
+[2022.03.05-12.06.11:376][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_1404B5363644E918A86EADA9B2F9C1FDD5.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_14.uasset'
+[2022.03.05-12.06.11:383][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_15F8373CD6484197226FE279B4BB83EB8D.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_15.uasset'
+[2022.03.05-12.06.11:390][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_1601006198470AE406150BE7BCA36F5306.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_16.uasset'
+[2022.03.05-12.06.11:398][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_2BCF816A649EDC07E4FCBDA916CA4D48B.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_2.uasset'
+[2022.03.05-12.06.11:405][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_3A37AECA944C76B751CE10ABD3C0B6EC5.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_3.uasset'
+[2022.03.05-12.06.11:412][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_42D6025954CAF83C0255932B498CAE56D.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_4.uasset'
+[2022.03.05-12.06.11:419][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_576928B0946DE426850B4D5969C56FE38.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_5.uasset'
+[2022.03.05-12.06.11:426][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_634BBA6F944425852C1FBD3BA1282D920.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_6.uasset'
+[2022.03.05-12.06.11:433][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_74F5484974CC86B74915E3C98F3F4E5BA.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_7.uasset'
+[2022.03.05-12.06.11:440][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_888440339403016DE66B53D9EA5856332.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_8.uasset'
+[2022.03.05-12.06.11:447][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunCycle_926D724814703705CF31C1BA3EF7C41B5.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_9.uasset'
+[2022.03.05-12.06.11:454][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/RunningAnimationE61BA4D24FFC38D4B70D1DB1B28B1272.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunningAnimation.uasset'
+[2022.03.05-12.06.11:751][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.03.05-12.06.11:765][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.11:779][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.11:794][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.03.05-12.06.11:808][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.05-12.06.11:821][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.03.05-12.06.11:836][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.11:850][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.11:865][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.11:879][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.11:894][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.11:909][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.05-12.06.11:923][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.11:937][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.11:956][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.11:971][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.11:985][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.12:000][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.12:014][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.12:028][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.12:043][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.12:057][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.12:072][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.03.05-12.06.12:087][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.12:102][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.12:117][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.12:131][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.12:145][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.12:163][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.12:176][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.12:190][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.12:205][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.03.05-12.06.12:219][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.12:241][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.03.05-12.06.12:255][990]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.03.05-12.06.12:290][990]LogSavePackage: Moving '../../../../../../Games/Ctrl+It/CtrlIt/Saved/2DSideScrollerCharacter3A5E1A5348BD90A91927C1820D6BA579.tmp' to '../../../../../../Games/Ctrl+It/CtrlIt/Content/Ctrl+It/Level_01_Village/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset'
+[2022.03.05-12.06.12:354][990]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating Texture2D /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DBackgroundTile.2DBackgroundTile
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating Material /Game/Ctrl+It/Level_01_Village/Level01_Design/Materials/PrototypingSpriteMaterial.PrototypingSpriteMaterial
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating Texture2D /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DBackground.2DBackground
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/Background_Sprite.Background_Sprite
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating Texture2D /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DCharacter_IdleAnimAtlas.2DCharacter_IdleAnimAtlas
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle1.IdleCycle1
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating ObjectRedirector /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/Background_Sprite.Background_Sprite
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle2.IdleCycle2
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle3.IdleCycle3
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle4.IdleCycle4
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle5.IdleCycle5
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle6.IdleCycle6
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle7.IdleCycle7
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle8.IdleCycle8
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperFlipbook /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleAnimation.IdleAnimation
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating Texture2D /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DBackgroundBlockAtlas.2DBackgroundBlockAtlas
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/Ledge.Ledge
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/PrototypingSprite.PrototypingSprite
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating Texture2D /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DCharacter_RunAnimAtlas.2DCharacter_RunAnimAtlas
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_1.RunCycle_1
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_10.RunCycle_10
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_11.RunCycle_11
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_12.RunCycle_12
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_13.RunCycle_13
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_14.RunCycle_14
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_15.RunCycle_15
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_16.RunCycle_16
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_2.RunCycle_2
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_3.RunCycle_3
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_4.RunCycle_4
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_5.RunCycle_5
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_6.RunCycle_6
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_7.RunCycle_7
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_8.RunCycle_8
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_9.RunCycle_9
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating PaperFlipbook /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunningAnimation.RunningAnimation
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating Blueprint /Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2022.03.05-12.06.12:354][990]LogContentValidation: Display: Validating ObjectRedirector /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/Ledge.Ledge
+[2022.03.05-12.06.26:909][863]Cmd: TRANSACTION UNDO
+[2022.03.05-12.06.26:909][863]LogEditorTransaction: Undo Edit Default Pawn Class
+[2022.03.05-12.06.36:321][425]LogObjectTools: Deleting 1 worlds: /Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2022.03.05-12.06.36:321][425]LogObjectTools: Currently 3 active worlds: /Game/Ctrl+It/MainMenu/MainMenu_Blueprint/Maps/Level_MainMenu.Level_MainMenu, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2022.03.05-12.06.36:337][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.03.05-12.06.43:081][425]LogSlate: Window 'Delete Assets' being destroyed
+[2022.03.05-12.06.43:138][425]LogUObjectGlobals: Force Deleting 42 Package(s):
+	Asset Name: /Game/Ctrl+It/Level_01_Village/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview
+	Asset Name: /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DBackgroundTile.2DBackgroundTile
+	Asset Name: /Game/Ctrl+It/Level_01_Village/Level01_Design/Materials/PrototypingSpriteMaterial.PrototypingSpriteMaterial
+	Asset Name: /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DBackground.2DBackground
+	Asset Name: /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/Background_Sprite.Background_Sprite
+	Asset Name: /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DCharacter_IdleAnimAtlas.2DCharacter_IdleAnimAtlas
+	Asset Name: /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle1.IdleCycle1
+	Asset Name: /Game/Ctrl+It/Level_01_Village/2DSideScroller/Sprites/Background_Sprite.Background_Sprite
+	Asset Name: /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle2.IdleCycle2
+	Asset Name: /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle3.IdleCycle3
+[2022.03.05-12.06.43:537][425]LogMaterial: Display: Missing cached shadermap for PrototypingSpriteMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F172566512E0DFE62517E5FE9DF079E626D4F73F), compiling. 
+[2022.03.05-12.06.43:537][425]LogMaterial: Warning: [AssetLog] C:\Games\Ctrl+It\CtrlIt\Content\Ctrl+It\Level_01_Village\Level01_Design\Materials\PrototypingSpriteMaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.05-12.06.43:537][425]LogMaterial: Display: 	(Node TextureSampleParameter2D) This param gets replaced with the sprite source texture> Found NULL, requires Texture2D
+[2022.03.05-12.06.43:538][425]LogMaterial: Display: Missing cached shadermap for PrototypingSpriteMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: F172566512E0DFE62517E5FE9DF079E626D4F73F), compiling. 
+[2022.03.05-12.06.43:538][425]LogMaterial: Warning: [AssetLog] C:\Games\Ctrl+It\CtrlIt\Content\Ctrl+It\Level_01_Village\Level01_Design\Materials\PrototypingSpriteMaterial.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.03.05-12.06.43:538][425]LogMaterial: Display: 	(Node TextureSampleParameter2D) This param gets replaced with the sprite source texture> Found NULL, requires Texture2D
+[2022.03.05-12.06.45:068][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.03.05-12.06.50:421][425]LogSlate: Window 'Message' being destroyed
+[2022.03.05-12.06.50:424][425]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DBackgroundTile.2DBackgroundTile is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DBackgroundTile.2DBackgroundTile:
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/PrototypingSprite.PrototypingSprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2022.03.05-12.06.50:424][425]LogObjectTools: Warning: ForceDeleteObject failed to delete 2DBackgroundTile, this package is now potentially corrupt
+[2022.03.05-12.06.51:663][425]LogSlate: Window 'Message' being destroyed
+[2022.03.05-12.06.51:666][425]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DBackground.2DBackground is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DBackground.2DBackground:
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/Background_Sprite.Background_Sprite (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2022.03.05-12.06.51:666][425]LogObjectTools: Warning: ForceDeleteObject failed to delete 2DBackground, this package is now potentially corrupt
+[2022.03.05-12.06.52:744][425]LogSlate: Window 'Message' being destroyed
+[2022.03.05-12.06.52:748][425]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DCharacter_IdleAnimAtlas.2DCharacter_IdleAnimAtlas is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DCharacter_IdleAnimAtlas.2DCharacter_IdleAnimAtlas:
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle1.IdleCycle1 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle2.IdleCycle2 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle3.IdleCycle3 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle4.IdleCycle4 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle5.IdleCycle5 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle6.IdleCycle6 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle7.IdleCycle7 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/IdleFrames/IdleCycle8.IdleCycle8 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2022.03.05-12.06.52:748][425]LogObjectTools: Warning: ForceDeleteObject failed to delete 2DCharacter_IdleAnimAtlas, this package is now potentially corrupt
+[2022.03.05-12.06.53:878][425]LogSlate: Window 'Message' being destroyed
+[2022.03.05-12.06.53:882][425]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DBackgroundBlockAtlas.2DBackgroundBlockAtlas is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DBackgroundBlockAtlas.2DBackgroundBlockAtlas:
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/Ledge.Ledge (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2022.03.05-12.06.53:882][425]LogObjectTools: Warning: ForceDeleteObject failed to delete 2DBackgroundBlockAtlas, this package is now potentially corrupt
+[2022.03.05-12.06.54:682][425]LogSlate: Window 'Message' being destroyed
+[2022.03.05-12.06.54:685][425]Message dialog closed, result: Ok, title: Message, text: Texture2D /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DCharacter_RunAnimAtlas.2DCharacter_RunAnimAtlas is in use.
+
+---
+Running the editor with '-NoLoadStartupPackages' may help if the object is loaded at startup.
+---
+
+
+External referencers of Texture2D /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DCharacter_RunAnimAtlas.2DCharacter_RunAnimAtlas:
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_1.RunCycle_1 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_10.RunCycle_10 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_11.RunCycle_11 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_12.RunCycle_12 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_13.RunCycle_13 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_14.RunCycle_14 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_15.RunCycle_15 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_16.RunCycle_16 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_2.RunCycle_2 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_3.RunCycle_3 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_4.RunCycle_4 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_5.RunCycle_5 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_6.RunCycle_6 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_7.RunCycle_7 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_8.RunCycle_8 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+   PaperSprite /Game/Ctrl+It/Level_01_Village/Level01_Design/Sprites/RunFrames/RunCycle_9.RunCycle_9 (standalone) (2)
+      0) ObjectProperty /Script/Paper2D.PaperSprite:SourceTextureCacheNeverSerialized
+      1) ObjectProperty /Script/Paper2D.PaperSprite:BakedSourceTexture
+
+
+[2022.03.05-12.06.54:685][425]LogObjectTools: Warning: ForceDeleteObject failed to delete 2DCharacter_RunAnimAtlas, this package is now potentially corrupt
+[2022.03.05-12.06.54:846][425]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.05-12.06.54:846][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.05-12.06.54:923][425]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2022.03.05-12.06.57:470][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.03.05-12.06.57:486][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.03.05-12.06.57:500][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.03.05-12.06.57:514][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.03.05-12.06.57:527][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.03.05-12.06.57:543][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:558][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:573][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:586][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:600][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:614][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.03.05-12.06.57:629][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:643][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.03.05-12.06.57:656][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:670][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:684][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:698][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:711][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:725][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:739][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:763][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.03.05-12.06.57:777][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.03.05-12.06.57:791][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.03.05-12.06.57:805][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.03.05-12.06.57:819][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:833][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:847][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:860][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:874][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:888][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:902][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.03.05-12.06.57:915][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:929][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.03.05-12.06.57:943][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:959][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:972][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.57:986][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.58:000][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.03.05-12.06.58:015][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.03.05-12.06.58:020][425]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.03.05-12.06.58:098][425]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.077 s
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: === Handled ensure: ===
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: 
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 3205]
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: 
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: 					Failed to unload all packages during ForceDeleteObjects - 
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: 					these packages are likely corrupt. Consider restarting the 
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: 					editor, noting which assets remain and then deleting them 
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: 					from the file system manually: 
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DBackgroundTile
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DBackground
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DCharacter_IdleAnimAtlas
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DBackgroundBlockAtlas
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: /Game/Ctrl+It/Level_01_Village/Level01_Design/Textures/2DCharacter_RunAnimAtlas
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: Stack: 
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffed7f1daa8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffed77e55f9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffed6f2b269 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffed7210dde UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffed7207e97 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffefd58a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffefd5a280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffefd3f421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffefd46e104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffefd457097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffefd449b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007fff3473c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007fff347292b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007fff3473e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007fff34724410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007fff49cce858 USER32.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007fff49cce299 USER32.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007fff3473fb79 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffefd47865a UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffefd416b09 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffed72a3e9e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffed77d8de2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffed3a7c618 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffeb2b92d69 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffeb2b92f6e UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffeb2b823a7 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffed42a2173 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffed429b7f2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffed431b6d2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffed429ea17 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffefd58a6fe UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffefd5a280e UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffefd3f421e UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffefd46e104 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffefd457097 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ffefd449b62 UE4Editor-Slate.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007fff3473c025 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007fff347292b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007fff3473e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007fff34724410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007fff49cce858 USER32.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007fff49cce299 USER32.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007fff3473fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ff65ca97621 UE4Editor.exe!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ff65cab0fcc UE4Editor.exe!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ff65cab10ba UE4Editor.exe!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ff65cab40dd UE4Editor.exe!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ff65cac5984 UE4Editor.exe!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007ff65cac853a UE4Editor.exe!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007fff49f47034 KERNEL32.DLL!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: [Callstack] 0x00007fff4b8c2651 ntdll.dll!UnknownFunction []
+[2022.03.05-12.06.58:098][425]LogOutputDevice: Error: 
