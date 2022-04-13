@@ -9,3 +9,5 @@ Other links you might find useful:
 * [Ctrl+It Review Point List](https://docs.google.com/document/d/1ij1JgcnmW7tdnN-lD0NYBBzNLJCtqO8585MNrQkMCLg/edit?usp=sharing "This is a list to help the reviewer on what needs to be fixed or improve regarding the game")
 
 Move To new repository, because .git folder is really big
+
+New Repo : https://github.com/DavidBrave/Ctrl-It
